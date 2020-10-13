@@ -7,6 +7,6 @@
 </a>  
 <br>
 <a href="https://github.com/Mirazex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazex&langs_count=true&theme=dracula&card_width=495&bg_color=202225&title_color=c66a57&text_color=FFFFFF&icon_color=c66a57&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazex&langs_count=10&theme=dracula&card_width=495&bg_color=202225&title_color=c66a57&text_color=FFFFFF&icon_color=c66a57&hide_border=true">
 </a>  
 </p>
