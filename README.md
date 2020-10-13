@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <a href="https://github.com/Mirazex">
   <img src="https://github-readme-stats.vercel.app/api?username=mirazex&show_icons=false&theme=dracula&count_private=tru">
 </a>
