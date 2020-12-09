@@ -21,6 +21,7 @@
 * 🔮  I love automation, innovation and learning new things.
 
 <hr>
+![](https://hit.yhype.halp.im/github/profile?user_id=22584144)
 
 ### 🤙 Connect with me
 
@@ -220,5 +221,3 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?custom_title=Code Time Week&username=mirazex&line_height=26&hide_title=true&hide_border=false&bg_color=151515&title_color=fb8c00&text_color=fff&icon_color=fb8c00">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirazex&theme=dark" alt="mirazex" />
 </p>
-
-![](https://hit.yhype.halp.im/github/profile?user_id=22584144)
