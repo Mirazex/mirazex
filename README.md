@@ -214,9 +214,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?custom_title=My GitHub Stats&username=Mirazex&hide=issues,contribs&line_height=30&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=151515&title_color=fb8c00&text_color=fff&icon_color=fb8c00">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazex&card_width=445&layout=compact&langs_count=10&hide_title=true&count_private=true&hide_border=true&bg_color=151515&title_color=fb8c00&text_color=fff&icon_color=fb8c00">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?custom_title=Code Time Week&username=mirazex&line_height=26&hide_title=true&hide_border=true&bg_color=151515&title_color=fb8c00&text_color=fff&icon_color=fb8c00">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirazex&theme=dark" alt="mirazex" />
 </p>
