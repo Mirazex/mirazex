@@ -218,4 +218,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirazex&theme=dark" alt="mirazex" />
 </p>
 
-![](https://hit.yhype.halp.im/github/profile?user_id=22584144)
+![](https://hit.yhype.me/github/profile?user_id=22584144)
